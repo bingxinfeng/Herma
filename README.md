@@ -8,6 +8,8 @@ Videos and project details please check [PROJECT PAGE HERE](https://bingcomputin
 
 2019
 
+Interactive installation
+
 Credit: Creative technologist/ Programmer
 
 #OpenFrameworks #Kinect
